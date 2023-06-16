@@ -11,3 +11,5 @@ Tunning: https://ellis3dp.com/Print-Tuning-Guide/articles/pressure_linear_advanc
 More macros: https://github.com/breakingflower/klipper_config/blob/master/cr10/macros.cfg
 
 Bed level area: https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02
+
+Input shaper: https://github.com/FYSETC/FYSETC-PortableInputShaper
